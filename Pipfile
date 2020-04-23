@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "==2.1.0"
+numpy = "==1.18.2"
+scipy = "==1.4.1"
+scikit-image = "==0.16.2"
+matplotlib = "==3.2.1"
+nbstripout = "*"
+Pillow = "==7.0.0"
+
+[requires]
+python_version = "3.8"
