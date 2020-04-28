@@ -21,3 +21,5 @@ venv/
 
 Pipfile
 Pipfile.lock
+
+assignments/.DS_Store
